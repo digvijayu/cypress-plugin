@@ -1,0 +1,23 @@
+{
+  "name": "cypress-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digvijayu/cypress-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digvijayu/cypress-plugin/issues"
+  },
+  "homepage": "https://github.com/digvijayu/cypress-plugin#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
